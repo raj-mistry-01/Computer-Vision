@@ -22,4 +22,4 @@ In ```main.py``` the path of csv should be according your ```system```
 
 
 ### A Question In Your Mind (I know) :
-If one student has all qrcode than it can also presents his all friends , but soon this ```code``` os going to be integretad by ```Face Recognization```
+If one student has all qrcode than it can also presents his all friends , but soon this ```code``` is going to be integretad by ```Face Recognization```
