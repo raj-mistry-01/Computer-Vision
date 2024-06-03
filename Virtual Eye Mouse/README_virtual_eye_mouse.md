@@ -7,7 +7,7 @@
 https://github.com/raj-mistry-01/Computer-Vision
 ```
 
-2. Navigate to Virtual Mouse Folder
+2. Navigate to Virtual Eye Mouse Folder
    
 3. Install required python packages
 
