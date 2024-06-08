@@ -13,13 +13,13 @@ To run **Security camera**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/raj-mistry-01/Computer-Vision
+sudo git clone https://github.com/raj-mistry-01/Computer-Vision.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/raj-mistry-01/Computer-Vision
+git clone https://github.com/raj-mistry-01/Computer-Vision.git
 ```
 
 2. Navigate to Security Camera Folder
