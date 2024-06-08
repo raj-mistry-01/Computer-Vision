@@ -22,7 +22,7 @@ Windows:
 git clone https://github.com/raj-mistry-01/Computer-Vision.git
 ```
 
-2. Navigate to Virtual Eye Mouse
+2. Navigate to Virtual Eye Mouse folder
    
 3. Install required python packages
 
