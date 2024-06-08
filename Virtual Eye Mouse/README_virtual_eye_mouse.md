@@ -1,13 +1,28 @@
+### Prerequisites
 
-### Installation
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+### Installation 
 
 1. Clone this repo.
 
+To run **Virtual Eye Mouse**, run this command on your git bash:
+
+Linux and macOS:
+
 ```bash
-https://github.com/raj-mistry-01/Computer-Vision
+sudo git clone https://github.com/raj-mistry-01/Computer-Vision.git
 ```
 
-2. Navigate to Virtual Eye Mouse Folder
+Windows:
+
+```bash
+git clone https://github.com/raj-mistry-01/Computer-Vision.git
+```
+
+2. Navigate to Virtual Eye Mouse
    
 3. Install required python packages
 
